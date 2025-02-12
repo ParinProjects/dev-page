@@ -11,3 +11,10 @@
     text-transform: uppercase;
     font-weight: bold;
 }
+
+form{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
